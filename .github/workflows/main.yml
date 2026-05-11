@@ -9,7 +9,7 @@ on:
       - master
 
 env:
-  CSV_URL: "Project/wine-quality.csv"
+  CSV_URL: "project/wine-quality.csv"
   TARGET_VAR: "quality"
   ALPHA: 0.5
   L1_RATIO: 0.5
